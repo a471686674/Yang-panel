@@ -27,29 +27,6 @@ Server, NAS navigation panel, Homepage, Browser homepage.
 
 </div>
 
-<!-- <img src="./doc/images/logo.png" align="left" width="180px" height="180px"/>
-<img align="left" width="0" height="192px" hspace="10"/>
-
-# Sun-Panel
-Server, NAS navigation panel, Homepage, Browser homepage.
-<br>
-一个服务器、NAS导航面板、Homepage、浏览器首页。 -->
-
-
-
-
-![](./doc/images/icon-info-new.png)
-
-## 😎 特点
-
-- 简洁
-- 局域网内外网链接切换
-- docker部署,对arm系统支持
-- 上手简单，免修改代码
-- 无需连接外部数据库
-- 丰富图标自由搭配（文字图标+svg图标+内置三方图标库）
-- 支持网页内置小窗口打开（部分网站屏蔽此功能）
-- 占用资源小
 
 ## 🧊 最新完整文档（DOC）
 
@@ -59,59 +36,6 @@ Server, NAS navigation panel, Homepage, Browser homepage.
 ## 🎨 演示（demo）
 
 [查看演示站](https://sun-panel-doc.enianteam.com/introduce/demo_site.html)
-
-## 🐳 交流群&社区
-开发者：**[红烧猎人](https://blog.enianteam.com/u/sun/content/11)**
-
-QQ交流群，进不去可以点上方连接联系作者
-
-<img src="./doc/images/qq_group_qr2.png"  height="350" />
-
-Github社区板块：https://github.com/hslr-s/sun-panel/discussions
-
-## 🍵 打赏
-
-> 开源开发不易，如果觉得我的项目有帮到你，欢迎给我[打赏](./doc/donate.md)或者请我喝个奶茶☕（如果可以备注下您的昵称或者名字），你的支持就是我的动力，谢谢。
-
-<a href="https://www.paypal.me/hslrs">
-<img height="60" src="./doc/images/donate/paypal.png" target="_blank"></img> 
-</a>
-
-
-|   |   |
-| ------------ | ------------ |
-| <img height="300" src="./doc/images/donate/weixin.png"/> |  <img height="300" src="./doc/images/donate/alipay.png" /> |
-
-## 🫓 TODO
-
-- [x] 分组，拖拽排序
-- [x] 导入导出功能
-- [x] 增加访客账号
-- [x] 帐号解除邮箱限制
-- [x] 对上传的文件管理（针对账户增强重复利用，节省空间）
-- [x] 服务器监控
-- [x] 多国语言支持
-- [ ] 用户自定义搜索框搜索引擎
-- [ ] 搜索框样式自定义（背景颜色，文字颜色）
-- [ ] docker管理器
-- [ ] 计划任务
-
-
-
-## 🖼️ 预览截图
-
-**各种风格，自由搭配**
-
-![](./doc/images/icon-small-new.png)
-![](./doc/images/transparent-info.png)
-![](./doc/images/transparent-small.png)
-![](./doc/images/solid-color-info.png)
-![](./doc/images/full-color-small.jpg)
-
-**内置小窗口**
-
-![](./doc/images/window-ssh.png)
-![](./doc/images/window-xunlei.png)
 
 ## 🍜 使用运行教程
 
